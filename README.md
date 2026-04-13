@@ -19,13 +19,13 @@ User → CloudFront → S3 Bucket
 
 ##  Steps
 
-1. Created an S3 bucket with a  name " amit-s3-bucket2003 " 
+1. Created an S3 bucket  " amit-s3-bucket2003 " 
 2. Uploaded static website files ( index.HTML, CSS template)  
 3. Enabled static website hosting  
 4. Configured index.html and error.html  
 5. Added bucket policy for public access  
 6. Accessed website using S3 endpoint  
-7. Created CloudFront distribution  
+7. Create a CloudFront distribution " S3-Cloudfront-Distribution " 
 8. Selected S3 as origin (website endpoint)  
 9. Accessed website using CloudFront URL  
 
@@ -86,4 +86,4 @@ User → CloudFront → S3 Bucket
 
 ## 👨‍💻 Author
 Amit Mishra   
-https://github.com/AmitMishra9650
+https://github.com/AmitMishra9650/cdn-project
