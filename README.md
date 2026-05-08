@@ -85,5 +85,5 @@ User → CloudFront → S3 Bucket
 ---
 
 ## 👨‍💻 Author
-Amit Mishra   
-https://github.com/AmitMishra9650/cdn-project
+
+    Amit Mishra   
