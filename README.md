@@ -52,6 +52,9 @@ User → CloudFront → S3 Bucket
 ### S3 Bucket
 ![S3 Bucket](Screenshots/s3-bucket.png)
 
+### Bucket Policy 
+![S3 Bucket](Screenshots/Bucket Policy.png)
+
 ### Uploaded Files
 ![Uploaded Files](Screenshots/uploaded-files.png)
 
